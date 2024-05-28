@@ -1,0 +1,101 @@
+Rank,Player,Team,Salary (per year),Age,Weight (kg),Height (cm),Average Points,Nationality
+1,LeBron James,Los Angeles Lakers,$39,219,565,37,113.4,203.2,25.0,USA
+2,Kevin Durant,Brooklyn Nets,$42,018,900,33,108.9,208.3,27.0,USA
+3,Giannis Antetokounmpo,Milwaukee Bucks,$39,344,900,27,109.8,210.8,28.0,Greece
+4,Stephen Curry,Golden State Warriors,$43,006,362,33,86.2,190.5,26.0,USA
+5,Kawhi Leonard,LA Clippers,$34,379,100,30,102.1,200.7,24.0,USA
+6,James Harden,Brooklyn Nets,$41,254,920,32,99.8,195.6,25.0,USA
+7,Anthony Davis,Los Angeles Lakers,$32,742,000,28,115.7,208.3,23.0,USA
+8,Luka Doncic,Dallas Mavericks,$10,174,391,22,104.3,200.7,27.0,Slovenia
+9,Nikola Jokic,Denver Nuggets,$31,579,390,26,125.2,213.4,24.0,Serbia
+10,Damian Lillard,Portland Trail Blazers,$43,750,000,31,88.5,190.5,25.0,USA
+11,Joel Embiid,Philadelphia 76ers,$29,542,010,27,113.4,213.4,28.0,Cameroon
+12,Paul George,LA Clippers,$39,344,900,31,99.8,203.2,23.0,USA
+13,Jimmy Butler,Miami Heat,$34,379,100,32,102.1,200.7,22.0,USA
+14,Kyrie Irving,Brooklyn Nets,$34,924,523,29,88.5,190.5,26.0,USA
+15,Devin Booker,Phoenix Suns,$29,467,800,25,93.0,198.1,26.0,USA
+16,Zion Williamson,New Orleans Pelicans,$10,733,400,21,129.3,198.1,25.0,USA
+17,Bradley Beal,Washington Wizards,$34,502,130,28,91.6,193.0,30.0,USA
+18,Jayson Tatum,Boston Celtics,$9,897,120,23,95.3,203.2,25.0,USA
+19,Russell Westbrook,Los Angeles Lakers,$44,211,146,33,90.7,190.5,23.0,USA
+20,Bam Adebayo,Miami Heat,$28,103,500,24,115.7,205.7,20.0,USA
+21,Chris Paul,Phoenix Suns,$30,000,000,36,79.4,183.0,16.0,USA
+22,Donovan Mitchell,Utah Jazz,$5,195,501,25,93.0,190.5,24.0,USA
+23,De'Aaron Fox,Sacramento Kings,$8,099,627,24,79.4,190.5,21.0,USA
+24,Domantas Sabonis,Indiana Pacers,$18,500,000,25,113.4,208.3,19.0,Lithuania
+25,Deandre Ayton,Phoenix Suns,$9,562,920,23,113.4,213.4,16.0,Bahamas
+26,LaMelo Ball,Charlotte Hornets,$8,307,120,20,82.1,198.1,16.0,USA
+27,Trae Young,Atlanta Hawks,$6,571,800,23,82.1,185.4,24.0,USA
+28,Julius Randle,New York Knicks,$19,800,000,27,113.4,203.2,22.0,USA
+29,John Collins,Atlanta Hawks,$4,137,302,24,104.3,208.3,16.0,USA
+30,Shai Gilgeous-Alexander,Oklahoma City Thunder,$5,495,760,23,86.2,193.0,20.0,Canada
+31,Mikal Bridges,Phoenix Suns,$4,737,360,25,93.0,200.7,14.0,USA
+32,Michael Porter Jr.,Denver Nuggets,$5,603,440,23,104.3,205.7,19.0,USA
+33,Jaren Jackson Jr.,Memphis Grizzlies,$9,180,560,22,108.9,210.8,14.0,USA
+34,Khris Middleton,Milwaukee Bucks,$35,500,000,30,100.7,203.2,20.0,USA
+35,Andrew Wiggins,Golden State Warriors,$31,579,390,26,99.8,203.2,18.0,Canada
+36,Jarrett Allen,Cleveland Cavaliers,$20,000,000,23,108.9,210.8,16.0,USA
+37,Christian Wood,Houston Rockets,$13,015,874,26,104.3,208.3,18.0,USA
+38,Jerami Grant,Detroit Pistons,$20,000,000,27,102.1,203.2,23.0,USA
+39,Mitchell Robinson,New York Knicks,$1,802,057,23,108.9,213.4,8.0,USA
+40,Miles Bridges,Charlotte Hornets,$3,934,320,23,102.1,203.2,19.0,USA
+41,Dejounte Murray,San Antonio Spurs,$15,000,000,25,83.9,193.0,19.0,USA
+42,CJ McCollum,Portland Trail Blazers,$33,333,333,30,86.2,193.0,21.0,USA
+43,Brandon Ingram,New Orleans Pelicans,$29,467,800,24,86.2,204.5,22.0,USA
+44,Jusuf Nurkić,Portland Trail Blazers,$12,000,000,27,129.3,213.4,11.0,Bosnia and Herzegovina
+45,Michael Bridges,Phoenix Suns,$4,737,360,25,93.0,200.7,14.0,USA
+46,John Wall,Houston Rockets,$44,310,840,31,88.5,193.0,20.0,USA
+47,Kyle Lowry,Miami Heat,$30,000,000,35,93.0,185.4,15.0,USA
+48,Robert Williams III,Boston Celtics,$8,000,000,25,113.4,208.3,9.0,USA
+49,Lou Williams,Atlanta Hawks,$8,000,000,35,79.4,185.4,11.0,USA
+50,Buddy Hield,Sacramento Kings,$24,000,000,28,95.3,193.0,17.0,Bahamas
+51,Gordon Hayward,Charlotte Hornets,$28,500,000,31,102.1,203.2,15.0,USA
+52,Kevin Love,Cleveland Cavaliers,$31,258,256,33,115.7,208.3,12.0,USA
+53,Ricky Rubio,Cleveland Cavaliers,$17,800,000,31,86.2,193.0,8.0,Spain
+54,Evan Mobley,Cleveland Cavaliers,$9,750,000,20,102.1,213.4,14.0,USA
+55,Jalen Green,Houston Rockets,$8,603,680,19,79.4,195.6,15.0,USA
+56,Jonas Valančiūnas,New Orleans Pelicans,$14,000,000,29,120.2,213.4,17.0,Lithuania
+57,Jalen Suggs,Orlando Magic,$9,019,680,20,92.1,193.0,13.0,USA
+58,Dennis Schröder,Boston Celtics,$5,900,000,28,79.4,185.4,15.0,Germany
+59,Marcus Smart,Boston Celtics,$13,446,428,27,99.8,193.0,12.0,USA
+60,Cam Reddish,New York Knicks,$4,870,520,22,92.1,200.7,8.0,USA
+61,Coby White,Chicago Bulls,$5,572,680,21,88.5,193.0,14.0,USA
+62,Anthony Edwards,Minnesota Timberwolves,$10,245,480,20,99.8,195.6,20.0,USA
+63,Joe Ingles,Utah Jazz,$14,000,000,34,102.1,203.2,9.0,Australia
+64,De'Andre Hunter,Atlanta Hawks,$7,422,000,24,98.0,200.7,15.0,USA
+65,Mikal Bridges,Phoenix Suns,$4,737,360,25,93.0,200.7,14.0,USA
+66,Collin Sexton,Cleveland Cavaliers,$6,384,495,23,87.1,193.0,19.0,USA
+67,Will Barton,Denver Nuggets,$13,925,000,31,83.9,195.6,12.0,USA
+68,Montrezl Harrell,Washington Wizards,$9,720,900,27,108.9,203.2,15.0,USA
+69,Norman Powell,Portland Trail Blazers,$10,865,952,28,97.5,193.0,16.0,USA
+70,Lauri Markkanen,Cleveland Cavaliers,$6,731,508,24,108.9,213.4,12.0,Finland
+71,Bogdan Bogdanović,Atlanta Hawks,$18,000,000,29,97.5,198.1,14.0,Serbia
+72,Kelly Oubre Jr.,Charlotte Hornets,$12,383,570,26,97.5,203.2,10.0,USA
+73,DeMar DeRozan,Chicago Bulls,$27,739,975,32,99.8,198.1,23.0,USA
+74,Andre Drummond,Philadelphia 76ers,$2,400,000,28,127.0,210.8,9.0,USA
+75,Tyrese Haliburton,Sacramento Kings,$4,431,720,21,83.9,195.6,12.0,USA
+76,Seth Curry,Philadelphia 76ers,$8,285,714,31,79.4,185.4,13.0,USA
+77,Tobias Harris,Philadelphia 76ers,$35,974,740,29,106.6,203.2,18.0,USA
+78,Buddy Hield,Indiana Pacers,$24,431,818,29,95.3,193.0,17.0,Bahamas
+79,Jeremy Lamb,Indiana Pacers,$10,500,000,29,95.3,198.1,8.0,USA
+80,Mason Plumlee,Charlotte Hornets,$8,000,000,31,120.2,210.8,6.0,USA
+81,Derrick White,San Antonio Spurs,$15,000,000,27,88.5,193.0,14.0,USA
+82,Devonte' Graham,New Orleans Pelicans,$5,934,330,26,83.9,185.4,10.0,USA
+83,Kevin Huerter,Atlanta Hawks,$4,761,000,23,99.8,198.1,11.0,USA
+84,Jarrett Culver,Minnesota Timberwolves,$6,104,160,22,95.3,198.1,7.0,USA
+85,Jalen Brunson,Dallas Mavericks,$1,802,575,25,88.5,190.5,10.0,USA
+86,Anfernee Simons,Portland Trail Blazers,$3,938,818,22,88.5,193.0,9.0,USA
+87,Tyrese Maxey,Philadelphia 76ers,$2,476,040,21,83.9,190.5,9.0,USA
+88,Isaiah Stewart,Detroit Pistons,$3,447,840,20,113.4,203.2,6.0,USA
+89,Isaac Okoro,Cleveland Cavaliers,$6,720,720,20,95.3,193.0,9.0,USA
+90,James Wiseman,Golden State Warriors,$9,005,760,20,115.7,213.4,11.0,USA
+91,Cameron Johnson,Phoenix Suns,$4,235,160,25,98.0,203.2,9.0,USA
+92,Robert Williams III,Boston Celtics,$8,000,000,25,113.4,208.3,9.0,USA
+93,P.J. Washington,Charlotte Hornets,$4,235,160,23,106.1,205.7,12.0,USA
+94,Daniel Gafford,Washington Wizards,$1,517,981,22,108.9,208.3,6.0,USA
+95,Darius Garland,Cleveland Cavaliers,$6,735,360,22,83.9,190.5,14.0,USA
+96,Chuma Okeke,Orlando Magic,$5,376,840,23,102.1,203.2,10.0,USA
+97,Cole Anthony,Orlando Magic,$3,894,240,21,83.9,190.5,11.0,USA
+98,Talen Horton-Tucker,Los Angeles Lakers,$1,517,981,21,102.1,195.6,8.0,USA
+99,Patrick Williams,Chicago Bulls,$7,068,360,20,100.7,203.2,7.0,USA
+100,Josh Giddey,Oklahoma City Thunder,$5,930,160,19,86.2,200.7,9.0,Australia 
